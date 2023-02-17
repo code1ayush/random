@@ -5,7 +5,6 @@ const about = () => {
     <div>
       about
       <Link href="/">Home</Link>
-      <div className="heart"></div>
     </div>
   );
 };
